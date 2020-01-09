@@ -51,6 +51,6 @@ public class CommonTests {
     public void tearDown(){
         loginHelper.quite();
         lamodaHomeHelper.quite();
-        onlinerHomeHelper.quite()
+        onlinerHomeHelper.quite();
     }
 }
