@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-12-19T21:47:54 MSK" name="Acceptance suite" finished-at="2019-12-19T21:48:19 MSK" duration-ms="25584">
+  <suite started-at="2020-01-09T20:52:37 MSK" name="Acceptance suite" finished-at="2020-01-09T20:53:08 MSK" duration-ms="30763">
     <groups>
     </groups>
-    <test started-at="2019-12-19T21:47:54 MSK" name="login test" finished-at="2019-12-19T21:48:19 MSK" duration-ms="25584">
+    <test started-at="2020-01-09T20:52:37 MSK" name="login test" finished-at="2020-01-09T20:53:08 MSK" duration-ms="30763">
       <class name="by.stormnet.web.OnlinerTest">
-        <test-method signature="onlinerTest()[pri:0, instance:by.stormnet.web.OnlinerTest@5a18cd76]" started-at="2019-12-19T21:47:54 MSK" name="onlinerTest" finished-at="2019-12-19T21:48:18 MSK" duration-ms="24704" status="PASS">
+        <test-method signature="onlinerTest()[pri:0, instance:by.stormnet.web.OnlinerTest@3568f9d2]" started-at="2020-01-09T20:52:37 MSK" name="onlinerTest" finished-at="2020-01-09T20:53:05 MSK" duration-ms="27690" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- onlinerTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:by.stormnet.web.OnlinerTest@5a18cd76]" started-at="2019-12-19T21:48:18 MSK" name="tearDown" finished-at="2019-12-19T21:48:19 MSK" duration-ms="849" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:by.stormnet.web.OnlinerTest@3568f9d2]" started-at="2020-01-09T20:53:05 MSK" name="tearDown" finished-at="2020-01-09T20:53:08 MSK" duration-ms="3024" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
