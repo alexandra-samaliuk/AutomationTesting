@@ -39,6 +39,7 @@ public class CommonTests {
     private LamodaHomeHelper lamodaHomeHelper = new LamodaHomeHelper();
     @Test
     public void paginationTest() {
+        lamodaHomeHelper.openLamodaHomeHelper();
         lamodaHomeHelper.searchAndCheckResult("nike");
         boolean page = lamodaHomeHelper.openPageAndCheck("2");
         boolean pageNext = lamodaHomeHelper.openNextPageAndCheck();

@@ -2,7 +2,7 @@
 <suite name="Acceptance suite">
     <test verbose="2" name="login test">
         <classes>
-            <class name="by.stormnet.web.OnlinerTest"/>
+            <class name="by.stormnet.web.CommonTests"/>
         </classes>
     </test>
 </suite>
